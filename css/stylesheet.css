@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.formu-container{
+  text-align: center;
+  font-family: arial;
+  height: 500px;
+}
+
+h2 {
+  margin: 20px 0 20px 0;
+  color: #085d69;
+    font-size: 30px;
+}
+.formu span{
+  display: inline-block;
+  text-align: left;
+  color: grey;
+  font-size: 18px;
+}
+input{
+border-radius: 5px;
+border-color: lightgrey;
+height: 20px;
+margin: 5px;
+}
